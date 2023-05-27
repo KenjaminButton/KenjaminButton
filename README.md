@@ -19,7 +19,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://colin-but.medium.com/"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/></a>
+            <a href="https://colin-but.medium.com/"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg"/></a>
         </td>
         <td>
             <a href="https://colinbut.github.io/">🌐</a>
