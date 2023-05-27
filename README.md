@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as: Lead Instructor for GA's Software Engineering Immersive
 - 🌱 I’m currently learning: Next.js and Typescript
-- 💬 Ask me about Python, Javascript, Data Structures and Algorithms, Mongoose, Django, Flask, SQL
+- 💬 Ask me about Python, Javascript, Data Structures and Algorithms, React, Express, Mongoose, Django, Flask, SQL
 - My real name: Kenneth
 - ⚡ Fun fact: I'm sincerely passionate about learning and teaching code. 
 
