@@ -1,12 +1,12 @@
 # Hello there 👋, I'm Kenjamin Button
 
-### Software/DevOps/Cloud Engineer
+### Software Engineer
 
-- 🔭 I’m currently working on: __DevOps & Site Reliability Engineering__ 
-- 🌱 I’m currently learning: __Blockchain, Solidity Programming, Go__
-- 💬 Ask me about __DevOps, SRE, Cloud Engineering (AWS), IAC, CI/CD, Docker, Kubernetes, Software Dev...__
-- 🧧 Chinese name: __畢少謙__
-- ⚡ Fun fact: Having grew up in Scotland, I've never tasted Haggis
+- 🔭 I’m currently working as: Lead Instructor for GA's Software Engineering Immersive
+- 🌱 I’m currently learning: Next.js and Typescript
+- 💬 Ask me about Python, Javascript, Data Structures and Algorithms, Mongoose, Django, Flask, SQL
+- My real name: Kenneth
+- ⚡ Fun fact: I'm sincerely passionate about learning and teaching code. 
 
 <br/>
 
