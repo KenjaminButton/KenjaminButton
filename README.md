@@ -3,10 +3,10 @@
 ### Software Engineer
 
 - 🔭 I’m currently working as: Lead Instructor for GA's Software Engineering Immersive
-- 🌱 I’m currently learning: Next.js and Typescript
+- 🌱 I’m currently working on mastering: Next.js and Typescript
 - 💬 Ask me about Python, Javascript, Data Structures and Algorithms, React, Express, Mongoose, Django, Flask, SQL
 - My real name: Kenneth
-- ⚡ Fun fact: I'm sincerely passionate about learning and teaching code. 
+- ⚡ Fun fact: I've been writing HTML and CSS since 1998. 
 
 <br/>
 
@@ -19,13 +19,13 @@
     </tr>
     <tr>
         <td>
-            <a href="https://yahoo.com/"><img src="https://imgur.com/nzkKfhz"/></a>
+            <a href="https://google.com/"><img src="https://imgur.com/nzkKfhz"/></a>
         </td>
         <td>
-            <a href="https://colinbut.github.io/">🌐</a>
+            <a href="https://kenjaminbutton.github.io/">🌐</a>
         </td>
         <td>
-            <a href="https://colinbut.github.io/online-resume">📃</a>
+            <a href="https://kenjaminbutton.github.io/online-resume">📃</a>
         </td>
     </tr>
 </table>
