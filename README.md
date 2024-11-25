@@ -5,7 +5,7 @@
   
 </a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Kenneth+P.+Chang+.+thanks+for+stopping+by+.+😉)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Kenneth+P.+Chang+😉)](https://git.io/typing-svg)∏
 
 
 # <a href="https://github.com/kenjaminbutton"><img src="./software-engineer.png" width="100%" height="500px" alt="Software Engineering Diagram"></a> 
